@@ -211,6 +211,11 @@
             <scope>test</scope>
         </dependency>
 
+        <dependency>
+            <groupId>javax.ws.rs</groupId>
+            <artifactId>javax.ws.rs-api</artifactId>
+        </dependency>
+
     </dependencies>
 
     <profiles>
